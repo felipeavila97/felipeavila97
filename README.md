@@ -23,5 +23,5 @@
      <a href = "mailto:feliperoos97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
    <div>
-    <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/875550195352473640/882081165190791228/pngwing.com_12.png">
+    <img align="right" alt="Rafa-yoda" src="https://e1.pngegg.com/pngimages/846/570/png-clipart-deadpool-deadpool-laying-thumbnail.png">
   </div>
