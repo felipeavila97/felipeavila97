@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe de Ávila Roos
 
-- 🔭 Hoje estudo técnico em tecnologia
-- 🌱 Estudando JavaScript
+- 🔭 Graduação em andamento - Análise e Desenvolvimento de Sistemas
+- 🌱 Formação - Técnico de Informática
 - 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/felipeavila97">
